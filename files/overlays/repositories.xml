@@ -432,6 +432,18 @@
     <feed>https://github.com/chadmed/asahi-overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>aschaap</name>
+    <description lang="en">Miscellaneous obscure software ebuilds not found elsewhere</description>
+    <homepage>https://github.com/aschaap/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>alex.l.schaap@gmail.com</email>
+      <name>Alex Schaap</name>
+    </owner>
+    <source type="git">https://github.com/aschaap/gentoo-overlay.git</source>
+    <source type="git">git+ssh://git@github.com/aschaap/gentoo-overlay.git</source>
+    <feed>https://github.com/aschaap/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>AstroFloyd</name>
     <description lang="en">AstroFloyd's Gentoo overlay</description>
     <homepage>https://cgit.gentoo.org/user/AstroFloyd.git/</homepage>
